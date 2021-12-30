@@ -1,0 +1,23 @@
+.heading {
+font-size: 23px;
+width: 100px;
+margin:0px;
+}
+
+.note{
+font-size: 15px;
+color:black;
+}
+
+.body{
+background:cover;
+}
+
+canvas{
+border:10px;
+color:blue;
+background:pink;
+padding:10px;
+
+}
+
